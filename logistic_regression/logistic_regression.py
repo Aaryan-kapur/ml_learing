@@ -1,4 +1,5 @@
 #digits dataset
+# to detect numbers
 from sklearn.datasets import load_digits
 digits = load_digits()
 
